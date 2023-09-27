@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UnitTestFrameworks\Task1\obj\Debug\net7.0\ref\Task1.dll
